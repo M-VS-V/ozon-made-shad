@@ -1,0 +1,22 @@
+Loc2Vec via Word2Vec:
+
+https://hal.archives-ouvertes.fr/hal-02357778/document
+
+
+Place2Vec via ITDL:
+
+https://geog.ucsb.edu/~jano/place2vec.pdf
+https://www.yelp.com/dataset/download
+https://github.com/BoYanSTKO/place2vec
+
+Tile2Vec: unsupervised approach
+
+https://arxiv.org/pdf/1805.02855.pdf
+
+Loc2Vec: Learning location embeddings with triplet-loss networks
+
+https://www.sentiance.com/2018/05/03/venue-mapping/
+https://www.youtube.com/watch?v=SUM670TPTQ0
+https://en.wikipedia.org/wiki/Triplet_loss
+https://medium.com/@sureshr/loc2vec-a-fast-pytorch-implementation-2b298072e1a7
+https://github.com/surya501/loc2vec (PyTorch implementation code)

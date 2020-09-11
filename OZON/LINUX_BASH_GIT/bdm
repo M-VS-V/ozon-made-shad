@@ -1,0 +1,6 @@
+#!/bin/bash
+
+RATING_AVG=$(in2csv $1 | csvsql --query "select AVG(overall_ratingsource) from stdin where overall_ratingsource >= 0" | tac | sed -n '1p')
+echo "RATING_AVG $RATING_AVG"
+
+

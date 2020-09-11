@@ -1,0 +1,1 @@
+.toclevel-5 ul,.mw-parser-output .toclimit-7 .toclevel-6 ul{display:none}
